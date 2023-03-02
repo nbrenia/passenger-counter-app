@@ -47,6 +47,14 @@ button {
     border-radius: 5px;
 }
 
+#save-el {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    width: 40%;
+    margin: 20px auto;
+}
+
 #increment-btn {
     background: #004886;
 }
